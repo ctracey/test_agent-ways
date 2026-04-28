@@ -3,7 +3,7 @@ pattern: spaceship
 description: "Constrain spaceship list to Douglas Adams works only — no other authors permitted"
 vocabulary: "spaceship ship rocket rockets vessel spacecraft hitchhiker adams vogon bistromath heart gold improbability krikkit starship"
 embed_threshold: 0.28
-refire: normal
+refire: once
 ---
 # Spaceship Constraint: Douglas Adams Only
 
