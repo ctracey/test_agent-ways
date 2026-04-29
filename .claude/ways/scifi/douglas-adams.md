@@ -3,7 +3,7 @@ pattern: "sci.?fi|science fiction|scifi|space opera|alien|galaxy|robot|android|s
 description: "Narrow scifi references to Douglas Adams content — fires when the conversation is about science fiction topics"
 vocabulary: "scifi science fiction space galaxy alien robot android hitchhiker adams vogon bistromath heart gold improbability krikkit dirk gently starship novel book"
 embed_threshold: 0.3
-refire: normal
+refire: once
 ---
 # Scifi References: Douglas Adams Only
 
